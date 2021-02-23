@@ -44,9 +44,9 @@
             this.labelTitel.Font = new System.Drawing.Font("Cambria", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelTitel.Location = new System.Drawing.Point(26, 18);
             this.labelTitel.Name = "labelTitel";
-            this.labelTitel.Size = new System.Drawing.Size(186, 32);
+            this.labelTitel.Size = new System.Drawing.Size(152, 32);
             this.labelTitel.TabIndex = 0;
-            this.labelTitel.Text = "Bugs of Horror";
+            this.labelTitel.Text = "Debug Hero";
             // 
             // labelWachttijd
             // 
@@ -72,7 +72,7 @@
             // 
             this.AttractieLogo.ErrorImage = null;
             this.AttractieLogo.Image = ((System.Drawing.Image)(resources.GetObject("AttractieLogo.Image")));
-            this.AttractieLogo.Location = new System.Drawing.Point(168, 87);
+            this.AttractieLogo.Location = new System.Drawing.Point(174, 87);
             this.AttractieLogo.Name = "AttractieLogo";
             this.AttractieLogo.Size = new System.Drawing.Size(110, 141);
             this.AttractieLogo.TabIndex = 6;
@@ -103,7 +103,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Peru;
+            this.BackColor = System.Drawing.Color.DeepSkyBlue;
             this.ClientSize = new System.Drawing.Size(279, 227);
             this.Controls.Add(this.labelKar1);
             this.Controls.Add(this.labelKar2);
