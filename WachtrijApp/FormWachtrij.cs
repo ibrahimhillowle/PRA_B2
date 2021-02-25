@@ -174,6 +174,11 @@ namespace WachtrijApp
                 return "Komt binnen";
             }
 
+            if (StatusNr == "5")
+            {
+                return "In onderhoudt";
+            }
+
             return "";
         }
 
