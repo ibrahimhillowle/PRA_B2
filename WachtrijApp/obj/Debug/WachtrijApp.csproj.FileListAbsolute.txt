@@ -22,3 +22,15 @@ C:\xampp\htdocs\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.GenerateResource
 C:\xampp\htdocs\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.CoreCompileInputs.cache
 C:\xampp\htdocs\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.exe
 C:\xampp\htdocs\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.pdb
+C:\Users\stefa\OneDrive\Desktop\amo-1e 2020-2021\blok-b jaar 1\pra\B2 - ticketss -\respetory\rollercoaster-check\PRA_B2\WachtrijApp\bin\Debug\SensorData\AttractieStatus.xml
+C:\Users\stefa\OneDrive\Desktop\amo-1e 2020-2021\blok-b jaar 1\pra\B2 - ticketss -\respetory\rollercoaster-check\PRA_B2\WachtrijApp\bin\Debug\SensorData\WachtrijSensoren.xml
+C:\Users\stefa\OneDrive\Desktop\amo-1e 2020-2021\blok-b jaar 1\pra\B2 - ticketss -\respetory\rollercoaster-check\PRA_B2\WachtrijApp\bin\Debug\WachtrijApp.exe.config
+C:\Users\stefa\OneDrive\Desktop\amo-1e 2020-2021\blok-b jaar 1\pra\B2 - ticketss -\respetory\rollercoaster-check\PRA_B2\WachtrijApp\bin\Debug\WachtrijApp.exe
+C:\Users\stefa\OneDrive\Desktop\amo-1e 2020-2021\blok-b jaar 1\pra\B2 - ticketss -\respetory\rollercoaster-check\PRA_B2\WachtrijApp\bin\Debug\WachtrijApp.pdb
+C:\Users\stefa\OneDrive\Desktop\amo-1e 2020-2021\blok-b jaar 1\pra\B2 - ticketss -\respetory\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csprojAssemblyReference.cache
+C:\Users\stefa\OneDrive\Desktop\amo-1e 2020-2021\blok-b jaar 1\pra\B2 - ticketss -\respetory\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.FormWachtrij.resources
+C:\Users\stefa\OneDrive\Desktop\amo-1e 2020-2021\blok-b jaar 1\pra\B2 - ticketss -\respetory\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.Properties.Resources.resources
+C:\Users\stefa\OneDrive\Desktop\amo-1e 2020-2021\blok-b jaar 1\pra\B2 - ticketss -\respetory\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.GenerateResource.cache
+C:\Users\stefa\OneDrive\Desktop\amo-1e 2020-2021\blok-b jaar 1\pra\B2 - ticketss -\respetory\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\amo-1e 2020-2021\blok-b jaar 1\pra\B2 - ticketss -\respetory\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.exe
+C:\Users\stefa\OneDrive\Desktop\amo-1e 2020-2021\blok-b jaar 1\pra\B2 - ticketss -\respetory\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.pdb
