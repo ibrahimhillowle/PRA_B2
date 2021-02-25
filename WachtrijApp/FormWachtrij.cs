@@ -42,56 +42,56 @@ namespace WachtrijApp
             //  Wanneer de sensor geen mensen detecteerd, geef de tot nu to berekende wachttijd terug.
             //  Wanneer de sensor wel mensen detecteerd, bereken de nieuwe wachttijd en ga door naar de volgende sensor.
             string node01 = doc.DocumentElement.SelectSingleNode("/Sensoren/Sensor01").InnerText;
-            if (node01 == "False")
+            if (node01 == "True")
             {
                 return Wachttijd;
             }
             Wachttijd += 6;
 
             string node02 = doc.DocumentElement.SelectSingleNode("/Sensoren/Sensor02").InnerText;
-            if (node02 == "False")
+            if (node02 == "True")
             {
                 return Wachttijd;
             }
             Wachttijd += 6;
 
             string node03 = doc.DocumentElement.SelectSingleNode("/Sensoren/Sensor03").InnerText;
-            if (node03 == "False")
+            if (node03 == "True")
             {
                 return Wachttijd;
             }
             Wachttijd += 4;
 
             string node04 = doc.DocumentElement.SelectSingleNode("/Sensoren/Sensor04").InnerText;
-            if (node04 == "False")
+            if (node04 == "True")
             {
                 return Wachttijd;
             }
             Wachttijd += 4;
 
             string node05 = doc.DocumentElement.SelectSingleNode("/Sensoren/Sensor05").InnerText;
-            if (node05 == "False")
+            if (node05 == "True")
             {
                 return Wachttijd;
             }
             Wachttijd += 4;
 
             string node06 = doc.DocumentElement.SelectSingleNode("/Sensoren/Sensor06").InnerText;
-            if (node06 == "False")
+            if (node06 == "True")
             {
                 return Wachttijd;
             }
             Wachttijd += 4;
 
             string node07 = doc.DocumentElement.SelectSingleNode("/Sensoren/Sensor07").InnerText;
-            if (node07 == "False")
+            if (node07 == "True")
             {
                 return Wachttijd;
             }
             Wachttijd += 4;
 
             string node08 = doc.DocumentElement.SelectSingleNode("/Sensoren/Sensor08").InnerText;
-            if (node08 == "False")
+            if (node08 == "True")
             {
                 return Wachttijd;
             }
@@ -100,7 +100,7 @@ namespace WachtrijApp
             return Wachttijd;
 
             string node09 = doc.DocumentElement.SelectSingleNode("/Sensoren/Sensor09").InnerText;
-            if (node09 == "False")
+            if (node09 == "True")
             {
                 return Wachttijd;
             }
@@ -108,21 +108,21 @@ namespace WachtrijApp
 
 
             string node10 = doc.DocumentElement.SelectSingleNode("/Sensoren/Sensor10").InnerText;
-            if (node10 == "False")
+            if (node10 == "True")
             {
                 return Wachttijd;
             }
             Wachttijd += 4;
 
             string node11 = doc.DocumentElement.SelectSingleNode("/Sensoren/Sensor11").InnerText;
-            if (node11 == "False")
+            if (node11 == "True")
             {
                 return Wachttijd;
             }
             Wachttijd += 4;
 
             string node12 = doc.DocumentElement.SelectSingleNode("/Sensoren/Sensor12").InnerText;
-            if (node12 == "False")
+            if (node12 == "True")
             {
                 return Wachttijd;
             }
